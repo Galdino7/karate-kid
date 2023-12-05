@@ -1,0 +1,52 @@
+.body{
+    background-color: rgb(211, 67, 10);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#h1{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(97, 61, 21)
+}
+
+#img{
+    width: 500px;
+    height: 550px;
+    margin-right: 20px;
+    float: left;
+    border: 70px;
+}
+
+#textoaolado{
+    font-size: 37px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#historia{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#texto1{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#img2{
+    width: 400px;
+    height: 150px;
+    margin-right: 20px;
+
+}
+
+#h{
+    background-color: black;
+}
+#hg{
+    background-color: black;
+}
